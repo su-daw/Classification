@@ -1,6 +1,8 @@
 # Classification
 
-![Alt Text](https://www.med-technews.com/downloads/4867/download/diabetes.png?cb=20ae2efb77d63abfd2808a089c2d911c&w=1200)
+<p align="center">
+  <img width="500" src="https://www.med-technews.com/downloads/4867/download/diabetes.png?cb=20ae2efb77d63abfd2808a089c2d911c&w=1000">
+</p>
 
 ### Diabetes Prediction using Classification Techniques. 
 Diabetes is a common, chronic disease. And it can lead to chronic damage and dysfunction of various tissues. Therefore, the earlier diagnosis is obtained the much easier diabates is controlled. Our aim is to develop machine learning models using classification techniques to predict diabetes based on several features, namely; Glucose, Age, BMI, Insulin and the history of diabetes in the patient history.
