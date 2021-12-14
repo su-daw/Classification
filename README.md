@@ -9,4 +9,4 @@ Diabetes is a common, chronic disease. And it can lead to chronic damage and dys
 A big part of machine learning is classification — we want to know what class (a.k.a. group) an observation belongs to. 
 Data science provides a plenty of classification algorithms and we have used different ML techniques such as  logistic regression, support vector machine, Random Forest classifier, and decision trees. The performances of all algorithms are evaluated based on recall because we wanted to decrease the number of FN due to the high impact on diabetes patients. Results obtained show <strong> Ada boost classifier outperforms with the highest recall of 84% comparing to other algorithms </strong>.
 
-#### Proposed by: Sultanah Aldossari & @+Rawanawh
+#### Proposed by: Sultanah Aldossari & Rawan Alharbi
